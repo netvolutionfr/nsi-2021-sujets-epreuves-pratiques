@@ -16,6 +16,5 @@ def cesar(message, decalage):
     return resultat
 
 
-
 print(cesar('BONJOUR A TOUS. VIVE LA MATIERE NSI !',4))
 print(cesar('GTSOTZW F YTZX. ANAJ QF RFYNJWJ SXN !', -5))
